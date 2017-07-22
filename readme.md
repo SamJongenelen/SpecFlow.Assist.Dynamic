@@ -51,6 +51,6 @@ public class StepsUsingDynamic
     public void NameShouldBe(string expectedValue) { Assert.AreEqual(expectedValue, _instance.Name);  }
 }
 ```
-The later version uses SpecFlow.Assist.Dynamic. Shorter, sweater and more fun!
+The later version uses SpecFlow.Assist.Dynamic. Shorter, sweeter and more fun!
 
 Full [documentation on the wiki](https://github.com/marcusoftnet/SpecFlow.Assist.Dynamic/wiki/Documentation)
